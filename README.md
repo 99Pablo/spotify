@@ -11,3 +11,9 @@ Por ejemplo:
 1234567890abcdef
 fedcba0987654321
 ```
+
+Para ejecutar el código solo tienes que correr esto en tu terminal:
+
+```bash
+python3 __main__.py
+```
